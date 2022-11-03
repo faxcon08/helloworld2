@@ -4,5 +4,6 @@ public class Main {
         System.out.println("Вторая попытка");
         System.out.println("Some test");
         System.out.println("Внес изменения");
+        System.out.println("Changing 2");
     }
 }
